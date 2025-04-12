@@ -29,4 +29,4 @@
 
 📩 mo.oubagha@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-oubagha-20799520a)  
-🌍 [Portfolio](https://mohadev.tech)
+🌍 [Portfolio](https://c-moha.github.io/html-portfolio/)
